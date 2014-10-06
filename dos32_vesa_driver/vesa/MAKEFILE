@@ -1,0 +1,44 @@
+path             = .
+
+exe     = demo
+lnk     = $(exe).lnk
+
+vesa_lib        = vesa.lib
+
+Compiler = wcc386
+
+#Compiler_Options  = /4s /7 /d2 /s
+
+Compiler_Options = -4s -w3 -d2 -zdp -zu -fp5 -d__wc32__ -dDEBUG
+
+Asm = tasm
+Asm_Options = -zi -mu -m2 -z
+
+Linker_options   = quiet debug all LIB $(vesa_lib)
+
+System       = dos4g
+
+Exe_file     = $(exe).exe
+
+#Ne pas d‚clare plus de 15 FICHIERS ?!?
+
+Object_files =  _vesa.obj
+
+#$(Exe_file): $(Object_files) makefile $(lnk)
+#             wlink system $(System) option $(Linker_Options) @$(lnk)
+
+vesa.lib : $(Object_files) makefile $(lnk)
+        wlib $(path6)vesa.lib +-$(object_files)
+
+
+$(LNK): makefile
+	%create $(LNK)
+	%append $(LNK) option map=map
+        for %i in ($(Object_files)) do @%append $(LNK) file %i
+				%append $(LNK) name $(EXE)
+
+_vesa.obj   : _vesa.asm
+             $(ASM) $(asm_options) $<
+
+c:
+              del *.obj
