@@ -1,0 +1,102 @@
+BONJOUR!!!!!
+Bienvenue dans l'aide de CHAPI-FIGHTER
+
+Vous etes dans le menu 'LANCER CLIENT'.
+
+        1) COMMENT SE CONNECTER A UNE
+           PARTIE EXISTANTE ?
+
+        2) COMMENT UTILISER LE CLAVIER
+           LORS D'UNE PARTIE ?
+
+
+P.S. :  desole pour les accents !!!!
+********************************************************
+********************************************************
+
+
+1) Voici les manipulations permettant de vous connecter
+   a une partie existante :
+
+
+        * Cliquez sur 'CHOIX JOUEUR'
+
+          Ce menu vous permet de choisir votre apparence
+          physique ainsi que votre pseudonyme.
+          Pour choisir votre apparence cliquez sur les boutons
+          'SUIVANT' et 'PRECEDENT'. 
+          Tapez votre pseudonyme dans la zone prevue a cet
+          effet. Ce pseudonyme vous servira pour discuter
+          sur le CHAT (dialogue via reseau).
+
+          Cliquez ensuite sur 'SAUVEGARDER' pour que les
+          informations soient enregistrees ou sur
+          'QUITTER' si vous voulez revenir au menu.
+          
+
+        * Cliquez sur 'INFO RESEAU'
+
+          Tapez dans la zone 'NUMERO PORT SERVEUR' le numero
+          de port utilise par le serveur.
+
+          Tapez dans la zone 'ADRESSE SERVEUR' l'adresse
+          ou bien le nom de la machine serveur.
+          ex : 197.150.0.151 ou mgr27 
+
+
+
+        * 'LANCER' permet de lancer une nouvelle partie.
+           Attention vous devez d'abord avoir ete dans les
+           menus 'CHOIX JOUEUR' et INFO RESEAU'
+
+
+        * 'ANNULER' permet de retourner au menu precedent
+
+
+
+
+
+2) LES TOUCHES pour jouer :
+_____________________________
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!IMPORTANT!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!! La fenetre de visu doit toujours rester active !!!!!!!
+!!!!!              pendant que vous jouez             !!!!!!
+
+
+    * fleches pour vous deplacer dans le visu
+
+         /\
+    8 ou || pour aller vers l'avant
+
+
+         ||
+    5 ou \/ pour aller vers le bas
+
+
+    6 ou --> pour tourner vers la droite
+
+    4 ou <-- pour aller vers la gauche
+
+
+    * touche 'CONTROL' pour tirer
+
+
+    * toute les touches alphanumeriques son redirigee
+      vers le CHAT. Vous pouvez donc taper un
+      message : il sera affiche dans la zone de saisie
+      des messages du CHAT. Pour l'envoyer tapez 'ENTREE'.
+      Il est alors envoye sur le reseau et s'affiche sur
+      toutes les machines qui ont lance le jeu.
+      Chaque message envoye est precede de  votre pseudo
+
+
+
+
+
+
+Pour sortir de ce menu d'aide cliquez sur 'QUITTER'
+    (totalement evident!!!!..............)

@@ -1,0 +1,58 @@
+BONJOUR!!!!!!
+Bienvenue dans l'aide de CHAPI-FIGHTER
+
+Vous etes dans le menu 'LANCER SERVEUR'
+
+
+        1) COMMENT LANCER UN SERVEUR ?
+  
+
+
+
+P.S.: desole pour les accents !!
+******************************************************
+******************************************************
+
+
+Voici les manipulations qui vous permettent de lancer
+un serveur :
+
+
+   * Cliquez sur 'INFO SERVEUR'
+
+      Un menu apparait. Il vous permet de saisir le numero
+      de port du serveur ainsi que le nombre maximal de client
+      autorises et le nombre d'adversaires a tuer pour gagner
+
+      Le numero de port est un entier compris entre 0 et 32000
+      Mettez TOUJOURS un numero de port compris entre 2000 et
+      9999 (Rien n'est garanti depasse ces limites..........).
+
+
+      Le nombre maximal de clients n'est pas fixe....mais la
+      logique veut que ne possedant pas un Super-calculateur
+      (CRAY...) vous ne depassiez pas une vingtaine de client
+      (et encore......).
+          
+      Le nombre de joueurs a tuer pour gagner est totalement
+      libre
+
+      Cliquez ensuite sur 'SAUVEGARDER' pour que
+      les informations soient enregistrees, sur
+      'QUITTER' si vous voulez revenir au menu.
+
+
+
+
+   *  Une fois les manipulations decritent ci-dessus
+      effectuee vous pouvez cliquer sur 'LANCER' si vous
+      voulez jouer 38-) , 'ANNULER'sinon..... 38-(
+
+
+
+!!!!!!!!!!!!!!!!!!!!!! IMPORTANT !!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!! LANCER UN SERVEUR NE VOUS  !!!!!!!!!!!!
+!!!!!!!!!!!!!! PERMET MALHEUREUSEMENT     !!!!!!!!!!!!
+!!!!!!!!!!!!!! PAS DE JOUER   38-(        !!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+

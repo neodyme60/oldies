@@ -1,0 +1,17 @@
+BONJOUR!!!!!
+Bienvenue dans l'aide de CHAPI-FIGHTER
+
+
+Vous etes dans le menu PRINCIPAL de CHAPI-FIGHTER
+
+
+     * Cliquez sur 'LANCER SERVEUR' si vous voulez
+       lancer un serveur (logique hein?).
+
+
+     * Cliquez sur 'LANCER CLIENT' si vous voulez
+       lancer un client.
+
+
+     * Cliquez sur 'QUITTER' si vous voulez sortir
+       du jeux (OH la T.....E !!!!).
