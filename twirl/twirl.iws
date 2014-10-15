@@ -397,12 +397,12 @@
       <changelist id="a45d1174-7a37-4f8f-bd44-60fc860c2da3" name="Default" comment="" />
       <created>1413393456457</created>
       <updated>1413393456457</updated>
-      <workItem from="1413393457100" duration="201000" />
+      <workItem from="1413393457100" duration="800000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201000" />
+    <option name="totallyTimeSpent" value="800000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
